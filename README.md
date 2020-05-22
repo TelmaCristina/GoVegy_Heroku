@@ -1,5 +1,3 @@
-# GoVegy_Heroku
-
 # Go Vegy
 
 In this assignment I have created a web application used to add, delete or just edit vegetarian recipes! 
