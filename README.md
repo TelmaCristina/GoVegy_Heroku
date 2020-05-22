@@ -11,14 +11,7 @@ The app was created using React, JavaScript, Axios, CSS and Bulma.
 
 ## How to get it running
 
-Open this repository in GitPod and instal npm, node, axios and Bulma to get the full version of the application
-```
-install npm
-install axios
-install bulma
-install node
-```
-When everything is installed, write the command bellow to run it
+Open this repository in GitPod or other tool of your preference and write the command bellow:
 ```
 npm run dev
 ```
