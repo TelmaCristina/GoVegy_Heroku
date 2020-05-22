@@ -7,7 +7,7 @@ shot of your dish!
 
 ## Technologies
 
-The app was created using React, JavaScript, Axios CSS and Bulma. 
+The app was created using React, JavaScript, Axios, CSS and Bulma. 
 
 ## How to get it running
 
